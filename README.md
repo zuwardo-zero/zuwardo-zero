@@ -8,7 +8,7 @@
 
 ## 🔧 Skills & Tools
 - 🖥️ **IT Support & Systems**: Windows Server (Active Directory, GPO), Network architect , experienced with VMware and Packet Tracer  
-- ☁️ **Cloud Platforms**: AWS (EC2, S3, IAM), Azure (VNets, App Services)  
+- ☁️ **Cloud Platforms**: AWS (EC2, S3, IAM), Azure (VNets, App Services) and oracle cloud
 - 🐧 **Linux**: Distributions configurations , System administration, Bash scripting and SSH
 - 🐍 **Programming & Automation**: Python (networking, automation scripts) , full-stack web development
 - 🔐 **Cybersecurity Basics**: Network traffic analysis , vulnerability scanning , VLAN segmentation 
