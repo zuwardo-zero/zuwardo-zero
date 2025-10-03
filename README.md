@@ -17,7 +17,7 @@
 
 ## 📂 Featured Projects
 - 📡 [Active Directory Lab](https://github.com/zuwardo-zero/Active-directory-experimentations-with-VMware)  
-  *Configured Windows Server 2003 domain, group policies, and software deployment in VMware.*  
+  *Configured Windows Server domain, group policies, and software deployment in VMware.*  
 - 🌐 [Networking with Subnets](https://github.com/zuwardo-zero/Network-segmentation-and-static-configuration--cisco-packet-tracer-)  
   *Cisco Packet Tracer lab with network development , subnetting, static routing, and ARP table simulation.*  
 - ☁️ **Cloud Web Server (Coming Soon)**  
