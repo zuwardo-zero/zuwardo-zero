@@ -7,11 +7,11 @@
 ---
 
 ## 🔧 Skills & Tools
-- 🖥️ **IT Support & Systems**: Windows Server (Active Directory, GPO), Network architect , experienced with VMware and Packet Tracer  
+- 🖥️ **IT Support & Systems**: Windows Server (Active Directory, GPO), Network architect , experienced with VMware and Packet Tracer , Troubleshooting skills
 - ☁️ **Cloud Platforms**: AWS (EC2, S3, IAM), Azure (VNets, App Services) and oracle cloud
-- 🐧 **Linux**: Distributions configurations , System administration, Bash scripting and SSH
-- 🐍 **Programming & Automation**: Python (networking, automation scripts) , full-stack web development
-- 🔐 **Cybersecurity Basics**: Network traffic analysis , vulnerability scanning , VLAN segmentation 
+- 🐧 **Linux**: Distribution's experience , System administration, Bash scripting and SSH , Terminal commands
+- 🐍 **Programming & Automation**: Python (networking, automation scripts) , full-stack web development and hosting
+- 🔐 **Cybersecurity Basics**: Network traffic analysis , vulnerability scanning , VLAN segmentation , Security measures deployment
 
 ---
 
@@ -24,7 +24,7 @@
   *Graduation project: Developed a deep learning model for pneumonia detection, integrated into a clinic web application.*  
   - Frontend: Vue.js  (https://github.com/Douda-code/liFeLinelabs)
   - Backend: Supabase (PostgreSQL)
-  - Model development : Kaggle and jupyter notebook (https://github.com/zuwardo-zero/Pneumonia-classification-notebook-)
+  - Model development : Kaggle , jupyter notebook and python libraries (https://github.com/zuwardo-zero/Pneumonia-classification-notebook-)
   - AI Hosting: Hugging Face  
   - Features: X-ray image classification & cloud-based data storage
 - ☁️ **Cloud Web Server (Coming Soon)**  
