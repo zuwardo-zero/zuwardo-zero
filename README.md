@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Islam Hadjaz  
 
-💻 **Computer Science Graduate | IT speacialist | Cloud , AI & Cybersecurity Enthusiast**  
+💻 **Computer Science Graduate | Cloud , AI & Cybersecurity Enthusiast**  
 
 🌍 Based in Algeria | Fluent in 🇫🇷 French, 🇬🇧 English, and 🇩🇿 Arabic  
 
