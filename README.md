@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Islam Hadjaz  
 
-<!--
-**zuwardo-zero/zuwardo-zero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Science Graduate | IT Support | Cloud & Cybersecurity Enthusiast**  
 
-Here are some ideas to get you started:
+🌍 Based in Algeria | Fluent in 🇫🇷 French, 🇬🇧 English, and 🇩🇿 Arabic  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools
+- 🖥️ **IT Support & Systems**: Windows Server (Active Directory, GPO), Network architect , experienced with VMware and Packet Tracer  
+- ☁️ **Cloud Platforms**: AWS (EC2, S3, IAM), Azure (VNets, App Services)  
+- 🐧 **Linux**: Distributions configurations , System administration, Bash scripting and SSH
+- 🐍 **Programming & Automation**: Python (networking, automation scripts) , full-stack web development
+- 🔐 **Cybersecurity Basics**: Network traffic analysis , vulnerability scanning , VLAN segmentation 
+
+---
+
+## 📂 Featured Projects
+- 📡 [Active Directory Lab](https://github.com/zuwardo-zero/Active-directory-experimentations-with-VMware)  
+  *Configured Windows Server 2003 domain, group policies, and software deployment in VMware.*  
+- 🌐 [Networking with Subnets](https://github.com/zuwardo-zero/Network-segmentation-and-static-configuration--cisco-packet-tracer-)  
+  *Cisco Packet Tracer lab with network development , subnetting, static routing, and ARP table simulation.*  
+- ☁️ **Cloud Web Server (Coming Soon)**  
+  *Secure Linux web server hosted on AWS/Azure with firewall and HTTPS setup.*  
+- 🐳 **Dockerized App (Coming Soon)**  
+  *Simple Python web app containerized with Docker and deployed on the cloud.*  
+
+---
+
+## 📫 Connect with Me
+- ✉️ **Email**: islam.hadjaz@univ-constantine2.dz  
