@@ -2,22 +2,19 @@
 
 💻 **Computer Science Graduate | Cloud , AI & Cybersecurity Enthusiast**  
 
-🌍 Based in Algeria | Fluent in 🇫🇷 French, 🇬🇧 English, and 🇩🇿 Arabic  
-
 ---
 
 ## 🔧 Skills & Tools
-- 🖥️ **IT Support & Systems**: Windows Server (Active Directory, GPO), Network architect , experienced with VMware and Packet Tracer , Troubleshooting skills
+- 🖥️ **IT Support & Systems**: Linux and Windows Server (Domain controller, GPO), Network architect , experienced with VMware and Packet Tracer , Troubleshooting skills
 - ☁️ **Cloud Platforms**: AWS (EC2, S3, IAM), Azure (VNets, App Services) and oracle cloud
-- 🐧 **Linux**: Distribution's experience , System administration, Bash scripting and SSH , Terminal commands
 - 🐍 **Programming & Automation**: Python (networking, automation scripts) , full-stack web development and hosting
-- 🔐 **Cybersecurity Basics**: Network traffic analysis , vulnerability scanning , VLAN segmentation , Security measures deployment
+- 🔐 **Cybersecurity Basics**: Network traffic analysis , vulnerability scanning , VLAN segmentation , Security measures deployment , SEIM and splunk .
 
 ---
 
 ## 📂 Featured Projects
-- 📡 [Active Directory Lab](https://github.com/zuwardo-zero/Active-directory-experimentations-with-VMware)  
-  *Configured Windows Server domain, group policies, and software deployment in VMware.*  
+- 📡 [Active Directory  Lab](https://github.com/zuwardo-zero/Active-directory-experimentations-with-VMware)  
+  *Configured Windows Server as domain controller , group policies, and software deployment in VMware.*  
 - 🌐 [Networking with Subnets](https://github.com/zuwardo-zero/Network-segmentation-and-static-configuration--cisco-packet-tracer-)  
   *Cisco Packet Tracer lab with network development , subnetting, static routing, and ARP table simulation.*
   - 🧠 [Lung Cancer Detection Web App](https://drive.google.com/file/d/13JuANtdw2-UmjQEOzLfMAWbr46ydOVwO/view?usp=sharing) 
