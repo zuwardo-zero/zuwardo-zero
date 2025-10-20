@@ -8,7 +8,7 @@
 - 🖥️ **IT Support & Systems**: Linux and Windows Server (Domain controller, GPO), Network architect , experienced with VMware and Packet Tracer , Troubleshooting skills
 - ☁️ **Cloud Platforms**: AWS (EC2, S3, IAM), Azure (VNets, App Services) and oracle cloud
 - 🐍 **Programming & Automation**: Python (networking, automation scripts) , full-stack web development and hosting
-- 🔐 **Cybersecurity Basics**: Network traffic analysis , vulnerability scanning , VLAN segmentation , Security measures deployment , SEIM and splunk .
+- 🔐 **Cybersecurity foundations**: Network traffic analysis , vulnerability scanning , VLAN segmentation , Security measures deployment , SEIM and splunk .
 
 ---
 
@@ -24,10 +24,6 @@
   - Model development : Kaggle , jupyter notebook and python libraries (https://github.com/zuwardo-zero/Pneumonia-classification-notebook-)
   - AI Hosting: Hugging Face  
   - Features: X-ray image classification & cloud-based data storage
-- ☁️ **Cloud Web Server (Coming Soon)**  
-  *Secure Linux web server hosted on AWS/Azure with firewall and HTTPS setup.*  
-- 🐳 **Dockerized App (Coming Soon)**  
-  *Simple Python web app containerized with Docker and deployed on the cloud.*  
 
 ---
 
