@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Islam Hadjaz  
 
-💻 **Computer Science Graduate | Cloud , AI & Cybersecurity Enthusiast**  
+💻 **Computer Science Graduate | IT Support | Cybersecurity Enthusiast**  
 
 ---
 
@@ -13,8 +13,10 @@
 ---
 
 ## 📂 Featured Projects
+- 🔐[SOC investigation](https://github.com/zuwardo-zero/Traffic-analysis-and-SOC-investigation-/tree/main)
+- This project documents a network investigation performed in a THM virtual environment. The task was to analyze suspicious outbound connections triggered after a user opened a phishing    email attachment.
 - 📡 [Active Directory  Lab](https://github.com/zuwardo-zero/Active-directory-experimentations-with-VMware)  
-  *Configured Windows Server as domain controller , group policies, and software deployment in VMware.*  
+  *Configured Windows Server as domain controller , group policies, and software deployment in VMware.*
 - 🌐 [Networking with Subnets](https://github.com/zuwardo-zero/Network-segmentation-and-static-configuration--cisco-packet-tracer-)  
   *Cisco Packet Tracer lab with network development , subnetting, static routing, and ARP table simulation.*
   - 🧠 [Lung Cancer Detection Web App](https://drive.google.com/file/d/13JuANtdw2-UmjQEOzLfMAWbr46ydOVwO/view?usp=sharing) 
