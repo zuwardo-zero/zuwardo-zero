@@ -6,10 +6,10 @@
 
 ## 🔧 Skills & Tools
 - 🌐 **Networking** : OSI Model , TCP/IP , Routing , Switching and Subnetting , Network configuration and architecture ,Network/transport/application protocols , Cisco packet tracer , VMware/Virtual box .
-- 🖥️ **IT Support & Systems**: Linux and Windows Server (Domain controller, GPO , SSH), Network architect , experienced with VMware and Packet Tracer , Troubleshooting skills
+- 🖥️ **IT Support & Systems**: Linux and Windows Server (Domain controller, GPO , SSH) , Troubleshooting Software/Hardware issues , Customer support 
 - ☁️ **Cloud Platforms**: Azure fundemantals and oracle cloud infrastructure 
 - 🐍 **Development & Automation**: Python (networking, automation scripts) , full-stack web development and hosting
-- 🔐 **Cybersecurity foundations**: Network traffic analysis with Wireshark , vulnerability scanning with Nmap , Firewall configuration , VLAN segmentation , Security measures deployment , SEIM , Snort , SOAR and splunk .
+- 🔐 **Cybersecurity foundations**: Network traffic analysis with Wireshark , vulnerability scanning with Nmap , Firewall configuration , VLAN segmentation , Security policies and measures deployment , Blue team essentials , SEIM , Snort , SOAR and splunk , Phishing attacks detection , Log analysis , Sandbox inspection .
 
 ---
 
