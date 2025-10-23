@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Islam Hadjaz  
 
-💻 **Computer Science Graduate | IT proffesional | Blue team practisioner**  
+💻 **CS Graduate | IT proffesional | Blue team practisioner**  
 
 ---
 
