@@ -34,5 +34,4 @@
 
 ---
 
-## 📫 Connect with Me
-- ✉️ **Email**: islam.hadjaz@univ-constantine2.dz 
+
