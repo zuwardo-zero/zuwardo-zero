@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohamed Islam Hadjaz  
+# 👋 Hi, I'm Mohamed   
 
 💻 **CS Graduate | IT proffesional | Blue team practisioner**  
 
