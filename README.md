@@ -1,6 +1,6 @@
 # 👋 Welcome 
 
-💻 **CS Graduate | IT proffesional | Blue team practisioner**  
+💻 **CS Graduate | IT proffesional | Cyber Security analyst**  
 
 ---
 
