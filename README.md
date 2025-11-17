@@ -1,6 +1,6 @@
 # 👋 Welcome 
 
-💻 **CS Graduate | IT proffesional | Cyber Security analyst**  
+💻 **CS Graduate | Cyber Security analyst | Top 5% Tryhackme**  
 
 ---
 
