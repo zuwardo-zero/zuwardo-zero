@@ -1,13 +1,13 @@
 # 👋 Welcome 
 
-💻 **CS Graduate | Cyber Security analyst | Top 5% Tryhackme**  
+💻 **CS Graduate | Cyber Security analyst | Top 4% Tryhackme | CTF Player**  
 
 ---
 
 ## 🔧 Skills & Tools
 - 🌐 **Networking** : OSI Model , TCP/IP , Routing , Switching and Subnetting , Network configuration and architecture ,Network/transport/application protocols , Cisco packet tracer , VMware/Virtual box .
-- 🖥️ **IT Support & Systems**: Linux and Windows Server (Domain controller, GPO , SSH) , Troubleshooting Software/Hardware issues , Customer support 
-- ☁️ **Cloud Platforms**: Azure fundemantals and oracle cloud infrastructure 
+- 🖥️ **IT Support & Systems**: Linux and Windows Server (Domain controller, GPO, Zabbix) , Troubleshooting Software/Hardware issues , Customer support 
+- ☁️ **Cloud Platforms**: Azure fundemantals and oracle cloud infrastructure, AWS
 - 🐍 **Development & Automation**: Python (networking, automation scripts) , full-stack web development and hosting
 - 🔐 **Cybersecurity foundations**: Network traffic analysis with Wireshark , vulnerability scanning with Nmap , Firewall configuration , VLAN segmentation , Security policies and measures deployment , Blue team essentials , SEIM , Snort , SOAR and splunk , Phishing attacks detection , Log analysis , Sandbox inspection .
 
