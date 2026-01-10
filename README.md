@@ -1,7 +1,6 @@
 # 👋 Welcome 
 
 💻 **CS Graduate | Cyber Security analyst | Top 4% Tryhackme | CTF Player**  
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5850006" style='border:none;'></iframe>
 
 ---
 
