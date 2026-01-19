@@ -9,6 +9,7 @@
 * 🎓 **Education:** Computer Science Graduate with a focus on IT, Network Architecture & Systems.
 ---
 https://hackenproof.com/hackers/Wiz-Zero
+
 https://tryhackme.com/p/WIZ.ZERO
 
 ## 🔧 Skills & Tools
