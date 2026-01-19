@@ -1,15 +1,22 @@
 # 👋 Welcome 
 
-💻 **CS Graduate | Cyber Security analyst | Top 4% Tryhackme | CTF Player**  
+💻 🛡️ Cybersecurity Researcher | IT professional | Computer Science graduate
+**Experienced in API Security, Web Applications, Internal networks and Android Analysis.**
 
+### ⚡ Professional Impact
+* 🩸 **Security:** Achieved **"First Blood"** on HackenProof beating hundreds of researchers, identified multipile **High-Severity Vulnerabilities**.
+* 📈 **Ranking:** Top 1800 Global Researcher (HackenProof) | Top 4% TryHackMe. 
+* 🎓 **Education:** Computer Science Graduate with a focus on IT, Network Architecture & Systems.
 ---
+https://hackenproof.com/hackers/Wiz-Zero
+https://tryhackme.com/p/WIZ.ZERO
 
 ## 🔧 Skills & Tools
 - 🌐 **Networking** : OSI Model , TCP/IP , Routing , Switching and Subnetting , Network configuration and architecture ,Network/transport/application protocols , Cisco packet tracer , VMware/Virtual box .
 - 🖥️ **IT Support & Systems**: Linux and Windows Server (Domain controller, GPO, Zabbix) , Troubleshooting Software/Hardware issues , Customer support 
 - ☁️ **Cloud Platforms**: Azure fundemantals and oracle cloud infrastructure, AWS
 - 🐍 **Development & Automation**: Python (networking, automation scripts) , full-stack web development and hosting
-- 🔐 **Cybersecurity foundations**: Network traffic analysis with Wireshark , vulnerability scanning with Nmap , Firewall configuration , VLAN segmentation , Security policies and measures deployment , Blue team essentials , SEIM , Snort , SOAR and splunk , Phishing attacks detection , Log analysis , Sandbox inspection .
+- 🔐 **Cybersecurity foundations**: Network traffic analysis with Wireshark , vulnerability scanning, Firewall configuration , VLAN segmentation , Security policies and measures deployment , Blue team operations , SEIM , Snort , SOAR and splunk , Phishing attacks detection , Log analysis , Sandbox .
 
 ---
 
