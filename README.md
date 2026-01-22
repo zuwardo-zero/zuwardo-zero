@@ -1,6 +1,7 @@
 # 👋 Welcome 
 
 💻 🛡️ Cybersecurity Researcher | IT professional | Computer Science graduate
+
 **Experienced in API Security, Web Applications, Internal networks and Android Analysis.**
 
 ### ⚡ Professional Impact
