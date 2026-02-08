@@ -6,7 +6,7 @@
 
 ### ⚡ Professional Impact
 * 🩸 **Security:** Achieved **"First Blood"** on HackenProof beating hundreds of researchers, identified multipile **High-Severity Vulnerabilities**.
-* 📈 **Ranking:** Top 1800 Global Researcher (HackenProof) | Top 4% TryHackMe. 
+* 📈 **Ranking:** Top 1800 Global Researcher (HackenProof) | Top 3% TryHackMe. 
 * 🎓 **Education:** Computer Science Graduate with a focus on IT, Network Architecture & Systems.
 ---
 https://hackenproof.com/hackers/Wiz-Zero
