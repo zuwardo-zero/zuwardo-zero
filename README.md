@@ -81,7 +81,7 @@ class Wiz-Zero:
 </details>
 
 <details>
-<summary><b>🖧 Active Directory Lab</b> &nbsp; <a href="https://github.com/zuwardo-zero/Zabbix-Monitoring-Automation">→ Repo</a></summary>
+<summary><b>🖧 Zabbix</b> &nbsp; <a href="https://github.com/zuwardo-zero/Zabbix-Monitoring-Automation">→ Repo</a></summary>
 
 > Configured a monitioring enterprise solution and automation options for troubleshooting and reduce downtime.
 > - Engineered a monitoring solution using Zabbix 7.0 LTS on Ubuntu to track the health, performance, and availability of a remote Linux (Mint) Nginx server production node.
