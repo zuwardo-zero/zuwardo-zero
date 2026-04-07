@@ -42,7 +42,6 @@ class Wiz-Zero:
 |---|---|
 | 📱 **Mobile App** | High-severity vuln affecting **300k+ active users**,  |
 | 🩸 **First Blood trophy** | Beat **30+ researchers** on HackenProof — first valid vulnerability in program |
-| 🔴 **High Severity** | Multiple high-severity vulnerabilities identified across programs |
 | 🌍 **Global Ranking** | **Top 1800** researcher on HackenProof |
 | 🏋️ **CTF / Training** | **Top 3%** on TryHackMe — 120+ challenges, 90+ environments rooted |
 | 🚀 **NASA** | 2× Letters of Recognition — CWE-200 & CWE-538 |
