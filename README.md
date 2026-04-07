@@ -168,21 +168,6 @@ class Wiz-Zero:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zuwardo-zero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zuwardo-zero&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-The more you mess around the more you find out.
-
 ![Profile Views](https://komarev.com/ghpvc/?username=zuwardo-zero&color=0891b2&style=flat-square&label=Profile+Views)
 
 </div>
