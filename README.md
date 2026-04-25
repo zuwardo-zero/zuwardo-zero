@@ -46,7 +46,7 @@ class Wiz-Zero:
 | 🏋️ **CTF / Training** | **Top 3%** on TryHackMe — 120+ challenges, 90+ environments rooted |
 | 🚀 **NASA** | 2× Letters of Recognition — CWE-200 & CWE-538 |
 | 📺 **Sky News UK** | Hall of Fame — CWE-532 |
-| 🌍 **JLL Real Estate** | Hall of Fame - CWE-425 (Only 55 globally) |
+| 🌍 **JLL Real Estate** | Hall of Fame — CWE-425 (Only 55 globally) |
 ---
 
 ## 📂 Projects
