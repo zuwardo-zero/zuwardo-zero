@@ -114,23 +114,6 @@ class Wiz-Zero:
 
 </details>
 
-<details>
-<summary><b>🫁 Pneumonia Detection Web App — Graduation Thesis</b></summary>
-
-> Deep learning model integrated into a clinic web application for automated chest X-ray analysis.
-> - Achieved **94.6% test accuracy** on pneumonia classification
-> - Reduced radiologist review time from **5 minutes → ~5 seconds** per image
-> - Full-stack deployment: **Vue.js** frontend · **Supabase (PostgreSQL)** backend · **Hugging Face** AI hosting
-
-| Component | Link |
-|---|---|
-| Frontend (Vue.js) | [liFeLinelabs](https://github.com/Douda-code/liFeLinelabs) |
-| Model Notebook (Python / Kaggle) | [Pneumonia classification](https://github.com/zuwardo-zero/Pneumonia-classification-notebook-) |
-
-</details>
-
----
-
 ## 🧰 Skills & Tools
 
 **🌐 Networking & Infrastructure**
