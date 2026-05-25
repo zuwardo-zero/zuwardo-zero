@@ -52,6 +52,13 @@ class Wiz-Zero:
 ## 📂 Projects
 
 <details>
+<summary><b>🔐 Writeups</b> &nbsp; <a href="[https://github.com/zuwardo-zero/SOC-investigation](https://github.com/zuwardo-zero/Vulnerabilities-Writeups)">→ Repo</a></summary>
+
+> - Publicly disclosed vulnerabilities identified and redacted reports.
+> - Recent CTF writeups 
+</details>
+
+<details>
 <summary><b>🔐 SOC Investigation — Phishing & C2 Detection</b> &nbsp; <a href="https://github.com/zuwardo-zero/SOC-investigation">→ Repo</a></summary>
 
 > Network investigation performed in a virtual environment after a user opened a phishing email attachment.
