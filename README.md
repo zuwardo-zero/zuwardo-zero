@@ -52,7 +52,7 @@ class Wiz-Zero:
 ## 📂 Projects
 
 <details>
-<summary><b>🔐 Writeups</b> &nbsp; <a href="[https://github.com/zuwardo-zero/SOC-investigation](https://github.com/zuwardo-zero/Vulnerabilities-Writeups)">→ Repo</a></summary>
+<summary><b>🔐 Writeups</b> &nbsp; <a href="https://github.com/zuwardo-zero/Vulnerabilities-Writeups">→ Repo</a></summary>
 
 > - Publicly disclosed vulnerabilities identified and redacted reports.
 > - Recent CTF writeups 
