@@ -3,9 +3,9 @@
      Place this file at: github.com/zuwardo-zero/zuwardo-zero/README.md
      ═══════════════════════════════════════════════════════════════════ -->
 
-### `$ whoami` — Security Researcher · Bug Hunter · Penetration Tester · Blue Team
+### `$ whoami` — CyberSecurity Researcher · Penetration Tester · Blue Team
 
-💻 🛡️ ** Web/Mobile Security · AWS Security · AD/Internal Networks**
+💻 🛡️ ** Web · Mobile · API · AWS · Active Directory · Internal Networks**
 
 Public Profiles
 [![HackenProof](https://img.shields.io/badge/HackenProof-00C853?style=for-the-badge&logo=hackthebox&logoColor=white)](https://hackenproof.com/hackers/Wiz-Zero)
