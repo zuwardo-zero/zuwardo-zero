@@ -8,6 +8,7 @@
 💻 🛡️ ** Web · Mobile · API · AWS · Active Directory · Internal Networks**
 
 Public Profiles
+
 [![HackenProof](https://img.shields.io/badge/HackenProof-00C853?style=for-the-badge&logo=hackthebox&logoColor=white)](https://hackenproof.com/hackers/Wiz-Zero)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/Wiz-Zero)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/WIZ.ZERO)
