@@ -154,7 +154,7 @@ Focus = [ "Purple Team"
 
 <p align="center">
   <a href="https://github.com/zuwardo-zero">
-    <img height="165" src="https://github-profile-trophy.vercel.app/?username=zuwardo-zero&row=1&column=7&theme=chartreuse-dark&no-frame=true&margin-w=8" alt="trophies" />
+    <img height="165" src="https://github-profile-trophy.vercel.app/?username=zuwardo-zero&row=1&column=7&theme=chartreuse-dark&no-frame=true&margin-w=8"/>
   </a>
 </p>
 
