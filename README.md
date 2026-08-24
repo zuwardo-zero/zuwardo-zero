@@ -5,10 +5,10 @@
      Place this file at: github.com/zuwardo-zero/zuwardo-zero/README.md
      ═══════════════════════════════════════════════════════════════════ -->
 
-### `$ whoami` — CyberSecurity Researcher · Penetration Tester · Blue Team
+### `$ whoami` — CyberSecurity Researcher · Penetration Tester · Blue Team · CTF Player
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0891b2,100:22c55e&height=190&section=header&text=Wiz-Zero&fontSize=62&fontColor=ffffff&animation=fadeIn&desc=%24%20whoami%20%C2%B7%20Cybersecurity%20Researcher%20%C2%B7%20Penetration%20Tester%20%C2%B7%20Blue%20Team&descSize=17&descAlignY=72" width="100%" />
 
-💻 🛡️ ** Web · Mobile · API · AWS · Active Directory · Internal Networks**
+💻 🛡️ ** Demonstrated Experience in: Web · Mobile · API · AWS · Active Directory · Internal Networks**
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=22C55E&center=true&vCenter=true&width=720&lines=Web+%C2%B7+Mobile+%C2%B7+API+%C2%B7+Cloud+%C2%B7+Active+Directory+%C2%B7+Internal+Networks;Bug+Bounty+Hunter+%7C+AppSec+%7C+SOC;Breaking+systems+to+understand+them+%E2%80%94+then+hardening+them)](https://github.com/zuwardo-zero)
 
 Public Profiles
