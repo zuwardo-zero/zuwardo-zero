@@ -1,11 +1,4 @@
 
-<!-- ═══════════════════════════════════════════════════════════════════
-     Mohamed Hadjaz — GitHub Profile README
-     Wiz-Zero — GitHub Profile README
-     Place this file at: github.com/zuwardo-zero/zuwardo-zero/README.md
-     ═══════════════════════════════════════════════════════════════════ -->
-
-### `$ whoami` — CyberSecurity Researcher · Penetration Tester · Blue Team · CTF Player
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0891b2,100:22c55e&height=190&section=header&text=Wiz-Zero&fontSize=62&fontColor=ffffff&animation=fadeIn&desc=%24%20whoami%20%C2%B7%20Cybersecurity%20Researcher%20%C2%B7%20Penetration%20Tester%20%C2%B7%20Purple%20Team&descSize=17&descAlignY=72" width="100%" />
 
 Public Profiles
