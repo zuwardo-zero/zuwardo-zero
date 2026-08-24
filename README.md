@@ -26,37 +26,26 @@ Public Profiles
 ## 🛡️ About Me
 
 ```python
-class Wiz-Zero:
+Class Wiz-Zero:
     role        = "Cybersecurity Researcher & Bug Bounty Hunter"
     location    = "EMEA"
     education   = "B.Sc. Computer Science"
     languages   = ["Arabic (Native)", "English (Fluent)", "French (Fluent)"]
-class WizZero:
-    role      = "Cybersecurity Researcher & Bug Bounty Hunter"
-    location  = "EMEA"
-    education = "B.Sc. Computer Science"
-    languages = ["Arabic (Native)", "English (Fluent)", "French (Fluent)"]
 
-    experience = [
+Experience = [
         "Freelance Security Researcher @ Bugcrowd (2025 - present)",
         "IT Support Volunteer @ GDG University Club (2023 - 2024)",
     ]
 
-    focus = [
-        "Bug Bounty: API Security, Web Apps, Mobile app security",
-        "Security Operations & Threat Detection",
-        "IT Infrastructure & Network Architecture",
-        "Deep Learning for Healthcare (thesis)"
-        "Bug Bounty: API Security, Web Apps, Mobile / Android AppSec",
-        "Security Operations: SIEM, Threat Hunting & Incident Response",
-        "Open Source: building Android static-analysis tooling",
+Focus = [ Purple Team
+        "Penetration testing & Bug Bounty",
+        "Blue Team Operations, SIEM, Triage, Threat Hunting & Incident Response",
+        "Open Source: Building tools and securing projects",
         "Deep Learning for Healthcare (graduation thesis)",
     ]
 
-    currently   = " Performing security audits, Bug bounty and volunteering | Open to security roles"
-    certs     = ["NSE 3 - Network Security Associate (Fortinet)",
-                 "SC-200 - Security Operations Analyst (in progress)"]
-    currently = "Performing security audits, bug bounty & volunteering | Open to security roles"
+    currently   = " Performing security audits and competing in global engagements | Open to talk"
+    certs     = [ "SC-200 - Security Operations Analyst (in progress)"]
 ```
 
 ---
@@ -72,10 +61,8 @@ class WizZero:
 | 🌍 **Global Ranking** | **Top 1800** researcher on HackenProof |
 | 🏋️ **CTF / Training** | **Top 3%** on TryHackMe — 120+ challenges, 90+ environments rooted |
 | 🚀 **NASA** | 2× Letters of Recognition — CWE-200 & CWE-538 |
-| 🚀 **NASA** | 2× Letters of Recognition — CWE-200 |
 | 📺 **Sky News UK** | Hall of Fame — CWE-532 |
-| 🌍 **JLL Real Estate** | Hall of Fame — CWE-425 (Only 55 globally) |
-| 🏢 **JLL Real Estate** | Hall of Fame — CWE-425 (only 55 globally) |
+| 🌍 **JLL Real Estate** | Hall of Fame — CWE-425 (55 global researcher) |
 
 ---
 
@@ -88,8 +75,7 @@ class WizZero:
 
 ## 📂 Projects
 
-<details>
-<summary><b>🔐 Writeups</b> &nbsp; <a href="https://github.com/zuwardo-zero/Vulnerabilities-Writeups">→ Repo</a></summary>
+
 <summary><b>🔱 Apk-Hunter — Android Static Analysis Scanner</b> &nbsp; <a href="https://github.com/zuwardo-zero/Apk-Hunter">→ Repo</a></summary>
 
 > - Publicly disclosed vulnerabilities identified and redacted reports.
