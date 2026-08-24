@@ -159,9 +159,9 @@ Focus = [ "Purple Team"
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=zuwardo-zero&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="150" src="https://streak-stats.demolab.com?user=zuwardo-zero&theme=chartreuse-dark&hide_border=true" alt="GitHub streak" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuwardo-zero&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=zuwardo-zero&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
+  <img height="150" src="https://streak-stats.demolab.com?user=zuwardo-zero&theme=chartreuse-dark&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuwardo-zero&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 ---
