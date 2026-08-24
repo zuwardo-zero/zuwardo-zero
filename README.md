@@ -54,10 +54,8 @@ Focus = [ Purple Team
 
 | Metric | Detail |
 |---|---|
-| 📱 **Mobile App** | High-severity vuln affecting **300k+ active users** ![Write up](https://github.com/zuwardo-zero/Vulnerabilities-Writeups/blob/main/Android-writeup-1.pdf) |
+| 📱 **Mobile App** | High-severity vuln affecting **300k+ active users** |
 | 🩸 **First Blood trophy** | Beat **30+ researchers** on HackenProof — first valid vulnerability in program |
-| 📱 **Mobile App** | High-severity vuln affecting **300k+ active users** ([write-up](https://github.com/zuwardo-zero/Vulnerabilities-Writeups/blob/main/Android-writeup-1.pdf)) |
-| 🩸 **First Blood** | Beat **30+ researchers** on HackenProof — first valid vulnerability in program |
 | 🌍 **Global Ranking** | **Top 1800** researcher on HackenProof |
 | 🏋️ **CTF / Training** | **Top 3%** on TryHackMe — 120+ challenges, 90+ environments rooted |
 | 🚀 **NASA** | 2× Letters of Recognition — CWE-200 & CWE-538 |
@@ -78,7 +76,6 @@ Focus = [ Purple Team
 
 <summary><b>🔱 Apk-Hunter — Android Static Analysis Scanner</b> &nbsp; <a href="https://github.com/zuwardo-zero/Apk-Hunter">→ Repo</a></summary>
 
-> - Publicly disclosed vulnerabilities identified and redacted reports.
 > - Recent CTF writeups 
 > Open-source tool combining apktool/jadx decompilation, 190+ secret-detection patterns, Firebase auto-testing and PoC intent generation into one lightweight script.
 >
@@ -88,102 +85,6 @@ Focus = [ Purple Team
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 > ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
 > ![SAST](https://img.shields.io/badge/Mobile_AppSec-SAST-CB3837?style=flat-square&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🔐 SOC Investigation — Phishing & C2 Detection</b> &nbsp; <a href="https://github.com/zuwardo-zero/SOC-investigation">→ Repo</a></summary>
-<summary><b>📝 Technical Blog & Vulnerability Write-ups</b> &nbsp; <a href="https://m1h.hashnode.dev/">→ Blog</a></summary>
-
-> Write-ups, disclosed bug bounty reports and security research notes published on [m1h.hashnode.dev](https://m1h.hashnode.dev/) &nbsp;·&nbsp; <a href="https://github.com/zuwardo-zero/Vulnerabilities-Writeups">Repo</a>
->
-> - Publicly disclosed vulnerabilities and redacted reports
-> - Recent CTF write-ups and hands-on lab walkthroughs
-
-</details>
-
-<details>
-<summary><b>🛡️ SOC Investigation — Phishing & C2 Detection</b> &nbsp; <a href="https://github.com/zuwardo-zero/SOC-investigation">→ Repo</a></summary>
-
-> Network investigation performed in a virtual environment after a user opened a phishing email attachment.
->
-> - Identified **4 C2 domains** and **5 malicious IPs** within a 47-second capture window using **Wireshark**
-> - Mapped findings to **MITRE ATT&CK** framework; detected evasion techniques via behavioral correlation
-> - Mapped findings to **MITRE ATT&CK**; detected evasion techniques via behavioral correlation
-> - Produced full incident report with IOC documentation
-
-</details>
-
-<details>
-<summary><b>🛡️ Vulnerability Assessment & Mitigation</b> &nbsp; <a href="https://github.com/zuwardo-zero/Vulnerability-assessment-and-mitigation">→ Repo</a></summary>
-<summary><b>🩸 Threat Hunting & Incident Response — Splunk · Sysmon · MITRE ATT&CK</b></summary>
-
-> Full vulnerability assessment and mitigation execution on a Windows system prior to decommissioning.
-> - Identified, prioritized, and remediated vulnerabilities across the system surface
-> - Documented findings and applied security hardening controls
-> Investigated a simulated 3-host breach using Splunk, Sysmon and Windows Security logs.
->
-> - Traced the full attack chain: initial execution → domain enumeration → process injection → lateral movement → data exfiltration, mapped to **13 MITRE ATT&CK techniques**
-> - Extracted IOCs: **2 malware hashes**, C2 domain/IP, exfiltration destination IP
-> - Delivered an IR report with **9 remediation steps** and **7 detection recommendations**
-
-</details>
-
-<details>
-<summary><b>🔎 Threat Detection & Log Analysis — RDP Brute Force</b> &nbsp; <a href="https://github.com/zuwardo-zero/Log-Analysis">→ Repo</a></summary>
-
-> Analyzed Windows Security logs to identify and dissect a brute-force attack targeting an admin account.
->
-> - Parsed **1,500+ attempts** via Event IDs **4625 / 4624**
-> - Reconstructed full attack timeline, confirmed breach, and documented compromised assets
-> - Reconstructed full attack timeline, confirmed breach, documented compromised assets
-> - Delivered security recommendations based on findings
-
-</details>
-
-<details>
-<summary><b>🖧 Zabbix</b> &nbsp; <a href="https://github.com/zuwardo-zero/Zabbix-Monitoring-Automation">→ Repo</a></summary>
-<summary><b>🛡️ Vulnerability Assessment & Mitigation</b> &nbsp; <a href="https://github.com/zuwardo-zero/Vulnerability-assessment-and-mitigation">→ Repo</a></summary>
-
-> Configured a monitioring enterprise solution and automation options for troubleshooting and reduce downtime.
-> - Engineered a monitoring solution using Zabbix 7.0 LTS on Ubuntu to track the health, performance, and availability of a remote Linux (Mint) Nginx server production node.
-> - Developed a self-healing workflow that reduced MTTR from minutes to less than 30 seconds by automating service restoration for failed Nginx processes via event-driven Zabbix Actions.
-> Full vulnerability assessment and mitigation execution on a Windows system prior to decommissioning.
->
-> - Identified, prioritized, and remediated vulnerabilities across the system surface
-> - Documented findings and applied security hardening controls
-
-</details>
-
-<details>
-<summary><b>🖧 Zabbix Monitoring Automation</b> &nbsp; <a href="https://github.com/zuwardo-zero/Zabbix-Monitoring-Automation">→ Repo</a></summary>
-
-> Enterprise monitoring solution with automated remediation for troubleshooting and reduced downtime.
->
-> - Engineered monitoring with **Zabbix 7.0 LTS** on Ubuntu tracking health, performance and availability of a remote Linux (Mint) Nginx production node
-> - Built a self-healing workflow cutting MTTR from minutes to **<30 seconds** via event-driven Zabbix Actions
-
-</details>
-
-<details>
-<summary><b>🖧 Active Directory Lab</b> &nbsp; <a href="https://github.com/zuwardo-zero/Active-directory-experimentations-with-VMware">→ Repo</a></summary>
-
-> Configured Windows Server as domain controller with group policies and software deployment in VMware.
-> Windows Server domain controller with group policies and software deployment in VMware.
->
-> - Set up AD DS, DNS, DHCP, and GPO enforcement across virtual machines
-> - Simulated enterprise IT environment for hands-on administration practice and governance
-
-</details>
-<details>
-<summary><b>🌐 Network Segmentation & Static Routing</b> &nbsp; <a href="https://github.com/zuwardo-zero/Network-segmentation-and-static-configuration--cisco-packet-tracer-">→ Repo</a></summary>
-
-> Cisco Packet Tracer lab covering network development, subnetting, static routing, and ARP simulation.
->
-> - Designed and implemented multi-subnet architecture with static routing tables
-> - Simulated ARP resolution and inter-VLAN communication
-
-</details>
 
 ---
 
