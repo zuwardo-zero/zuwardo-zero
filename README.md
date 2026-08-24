@@ -118,7 +118,6 @@ Focus = [ "Purple Team"
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 
@@ -126,8 +125,6 @@ Focus = [ "Purple Team"
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 **🐍 Programming & Scripting**
 
@@ -173,9 +170,7 @@ Focus = [ "Purple Team"
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=zuwardo-zero&color=0891b2&style=flat-square&label=Profile+Views)
-
 </div>
-**🔐 Reach me via [my blog](https://m1h.hashnode.dev/) or the platforms above — no direct messages.**
+**🔐 Reach me via [X](https://x.com.Zu_Wardo/).**
 
 </div>
