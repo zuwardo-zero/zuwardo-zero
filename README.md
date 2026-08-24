@@ -171,6 +171,6 @@ Focus = [ "Purple Team"
 <div align="center">
 
 </div>
-**🔐 Reach me via [X](https://x.com.Zu_Wardo/).**
+**🔐 Reach me via X: https://x.com.Zu_Wardo.**
 
 </div>
