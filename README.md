@@ -6,9 +6,7 @@
      ═══════════════════════════════════════════════════════════════════ -->
 
 ### `$ whoami` — CyberSecurity Researcher · Penetration Tester · Blue Team · CTF Player
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0891b2,100:22c55e&height=190&section=header&text=Wiz-Zero&fontSize=62&fontColor=ffffff&animation=fadeIn&desc=%24%20whoami%20%C2%B7%20Cybersecurity%20Researcher%20%C2%B7%20Penetration%20Tester%20%C2%B7%20Blue%20Team&descSize=17&descAlignY=72" width="100%" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=22C55E&center=true&vCenter=true&width=720&lines=Securing+%C2%B7+infrastructure;Bug+Bounty+Hunter+%7C+Purple Team+%7C;Breaking+systems+legally+%E2%80%94)](https://github.com/zuwardo-zero)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0891b2,100:22c55e&height=190&section=header&text=Wiz-Zero&fontSize=62&fontColor=ffffff&animation=fadeIn&desc=%24%20whoami%20%C2%B7%20Cybersecurity%20Researcher%20%C2%B7%20Penetration%20Tester%20%C2%B7%20Purple%20Team&descSize=17&descAlignY=72" width="100%" />
 
 Public Profiles
 <h3 align="center">🌐 Find me online</h3>
