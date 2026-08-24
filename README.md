@@ -13,10 +13,6 @@
 Public Profiles
 <h3 align="center">🌐 Find me online</h3>
 
-[![HackenProof](https://img.shields.io/badge/HackenProof-00C853?style=for-the-badge&logo=hackthebox&logoColor=white)](https://hackenproof.com/hackers/Wiz-Zero)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/Wiz-Zero)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/WIZ.ZERO)
-<div align="center">
 
 [![Blog](https://img.shields.io/badge/Blog-m1h.hashnode.dev-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://m1h.hashnode.dev/)
 [![HackenProof](https://img.shields.io/badge/HackenProof-Wiz--Zero-00C853?style=for-the-badge&logo=hackthebox&logoColor=white)](https://hackenproof.com/hackers/Wiz-Zero)
