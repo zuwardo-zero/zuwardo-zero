@@ -31,11 +31,11 @@ Class Wiz-Zero:
     languages   = ["Arabic (Native)", "English (Fluent)", "French (Fluent)"]
 
 Experience = [
-        "Freelance Security Researcher @ Bugcrowd (2025 - present)",
-        "IT Support Volunteer @ GDG University Club (2023 - 2024)",
+        "Independent Security Researcher -Self Employed- (2025 - present)",
+        "IT Support Volunteer @ University (2023 - 2024)",
     ]
 
-Focus = [ Purple Team
+Focus = [ "Purple Team"
         "Penetration testing & Bug Bounty",
         "Blue Team Operations, SIEM, Triage, Threat Hunting & Incident Response",
         "Open Source: Building tools and securing projects",
