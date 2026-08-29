@@ -1,42 +1,39 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0891b2,100:22c55e&height=190&section=header&text=Wiz-Zero&fontSize=62&fontColor=ffffff&animation=fadeIn&desc=%24%20%20%C2%B7%20Cybersecurity%20Researcher%20%C2%B7%20Penetration%20Tester%20%C2%B7%20Purple%20Team&descSize=17&descAlignY=72" width="100%" />
 
 Public Profiles
 <h3 align="center">🌐 Find me online</h3>
-
 
 [![Blog](https://img.shields.io/badge/Blog-hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://m1h.hashnode.dev/)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Wiz--Zero-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/Wiz-Zero)
 [![HackenProof](https://img.shields.io/badge/HackenProof-Wiz--Zero-00C853?style=for-the-badge&logo=hackthebox&logoColor=white)](https://hackenproof.com/hackers/Wiz-Zero)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_3%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/WIZ.ZERO)
 
-</div>
-
 ---
 
 ## 🛡️ About Me
 
 ```python
-Class Wiz-Zero:
+class WizZero:
     role        = "Cybersecurity Researcher & Bug Bounty Hunter"
     location    = "EMEA"
     education   = "B.Sc. Computer Science"
     languages   = ["Arabic (Native)", "English (Fluent)", "French (Fluent)"]
 
-Experience = [
+    experience  = [
         "Independent Security Researcher -Self Employed- (2025 - present)",
         "IT Support Volunteer @ University (2023 - 2024)",
     ]
 
-Focus = [ "Purple Team"
+    focus       = [
+        "Purple Team",
         "Penetration testing & Bug Bounty",
         "Blue Team Operations, SIEM, Triage, Threat Hunting & Incident Response",
         "Open Source: Building tools and securing projects",
         "Deep Learning for Healthcare (graduation thesis)",
     ]
 
-    currently   = " Performing security audits and competing in global engagements | Open to talk"
-    certs     = [ "SC-200 - Security Operations Analyst (in progress)"]
+    currently   = "Performing security audits and competing in global engagements | Open to talk"
+    certs       = ["SC-200 - Security Operations Analyst (in progress)"]
 ```
 
 ---
@@ -64,10 +61,9 @@ Focus = [ "Purple Team"
 
 ## 📂 Projects
 
-
+<details>
 <summary><b>🔱 Apk-Hunter — Android Static Analysis Scanner</b> &nbsp; <a href="https://github.com/zuwardo-zero/Apk-Hunter">→ Repo</a></summary>
 
-> - Recent CTF writeups 
 > Open-source tool combining apktool/jadx decompilation, 190+ secret-detection patterns, Firebase auto-testing and PoC intent generation into one lightweight script.
 >
 > - Reduced APK triage noise by **~90%** via 50+ SDK-prefix filtering
@@ -77,11 +73,12 @@ Focus = [ "Purple Team"
 > ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
 > ![SAST](https://img.shields.io/badge/Mobile_AppSec-SAST-CB3837?style=flat-square&logoColor=white)
 
+</details>
+
 ---
 
 ## 🧰 Skills & Tools
 
-**🌐 Networking & Infrastructure**
 **🔴 Offensive & Application Security**
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
@@ -129,19 +126,8 @@ Focus = [ "Purple Team"
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**🔐 Security & Blue Team**
 ---
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-3AABF7?style=flat-square&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata_IDS/IPS-EF3B2D?style=flat-square&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-CC0000?style=flat-square&logoColor=white)
-![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -159,10 +145,3 @@ Focus = [ "Purple Team"
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,40:0891b2,100:0d1117&height=110&section=footer" width="100%" />
-
-<div align="center">
-
-</div>
-**🔐 Reach me via X: https://x.com.Zu_Wardo.**
-
-</div>
