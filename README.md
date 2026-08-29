@@ -8,6 +8,11 @@ Public Profiles
 [![HackenProof](https://img.shields.io/badge/HackenProof-Wiz--Zero-00C853?style=for-the-badge&logo=hackthebox&logoColor=white)](https://hackenproof.com/hackers/Wiz-Zero)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_3%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/WIZ.ZERO)
 
+<div align="center">
+
+**🔐 Email: w1zeroer@gmail.com**
+
+</div>
 ---
 
 ## 🛡️ About Me
