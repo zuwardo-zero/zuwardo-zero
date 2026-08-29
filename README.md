@@ -10,8 +10,6 @@ Public Profiles
 
 <div align="center">
 
-**🔐 Email: w1zeroer@gmail.com**
-
 </div>
 ---
 
