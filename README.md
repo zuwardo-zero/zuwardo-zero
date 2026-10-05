@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0891b2,100:22c55e&height=190&section=header&text=Wiz-Zero&fontSize=62&fontColor=ffffff&animation=fadeIn&desc=%24%20%20%C2%B7%20Cybersecurity%20Researcher%20%C2%B7%20Penetration%20Tester%20%C2%B7%20Purple%20Team&descSize=17&descAlignY=72" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0891b2,100:22c55e&height=190&section=header&text=m1h&fontSize=62&fontColor=ffffff&animation=fadeIn&desc=%24%20%20%C2%B7%20Cybersecurity%20Researcher%20%C2%B7%20Penetration%20Tester%20%C2%B7%20Purple%20Team&descSize=17&descAlignY=72" width="100%" />
 
 Public Profiles
 <h3 align="center">🌐 Find me online</h3>
@@ -13,7 +13,7 @@ Public Profiles
 ## 🛡️ About Me
 
 ```python
-class WizZero:
+class m1h:
     role        = "Cybersecurity Researcher & Bug Bounty Hunter"
     location    = "EMEA"
     education   = "B.Sc. Computer Science"
