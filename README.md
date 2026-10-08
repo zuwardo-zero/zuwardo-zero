@@ -43,7 +43,7 @@ class m1h:
 | Metric | Detail |
 |---|---|
 | 🇩🇰 **Danish State Railways (DSB.dk)** | Hall of Fame / high severity subdomain takeover (Dangling NS Delegation) |
-| 🇦🇺 Recognized by ACT (Australian Capital Territory) for an undisclosed vulnerability |
+| 🇦🇺 Recognized by ACT (Australian Capital Territory) | Undisclosed vulnerability |
 | 🚀 **NASA** | 2× Letters of Recognition / CWE-200 & CWE-538 |
 | 📺 **Sky News UK** | Hall of Fame / CWE-532 |
 | 🌍 **JLL Real Estate** | Hall of Fame / two CWE-425 |
