@@ -55,7 +55,7 @@ class m1h:
 ## 🎓 Certifications
 
 ![Fortinet NSE 3](https://img.shields.io/badge/Fortinet_NSE_3-Network_Security_Associate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![Microsoft SC-200](https://img.shields.io/badge/Microsoft_SC--200-Security_Operations_Analyst_%E2%80%94_in_progress-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft SC-200](https://img.shields.io/badge/Microsoft_SC--200-Security_Operations_Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
 
