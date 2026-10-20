@@ -47,8 +47,8 @@ class m1h:
 | 🚀 **NASA** | 2× Letters of Recognition / CWE-200 & CWE-538 |
 | 📺 **Sky News UK** | Hall of Fame / CWE-532 |
 | 🌍 **JLL Real Estate** | Hall of Fame / two CWE-425 |
-| 🩸 **First Blood trophy** | Beat **30+ researchers** on HackenProof, first valid vulnerability in program / **Top 1800** researcher on HackenProof |
-| 🏋️ **CTF / Training** | **Active CTF solution writer. Solved 120+ environments through **Tryhackme**/**Hack the box**/**Hack Smarter** |
+|  **First Blood trophy** | Beat **30+ researchers** on HackenProof, first valid vulnerability in program / **Top 1800** researcher on HackenProof |
+|  **CTF / Training** | **Active CTF solution writer. Solved 120+ environments through **Tryhackme**/**Hack the box**/**Hack Smarter** |
 
 ---
 
