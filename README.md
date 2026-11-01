@@ -16,7 +16,7 @@
 
 ```python
 class m1h:
-    role        = "Cybersecurity Researcher & Independent Penetration Tester"
+    role        = "Cybersecurity Researcher & Penetration Tester"
     location    = "EMEA (Remote)"
     education   = "B.Sc. in Computer Science"
     languages   = ["Arabic (Native)", "English (Fluent)", "French (Fluent)"]
