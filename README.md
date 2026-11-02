@@ -47,7 +47,7 @@ class m1h:
 
 | Target / Recognition | Impact & Details |
 |---|---|
-| 🔓 **[CVE-2026-92916](https://www.cve.org/CVERecord?id=CVE-2026-92916) — Grav CMS** | **CVSS 8.7 (High)** · Unauthenticated profiler exposure leading to admin account takeover via session hijacking across **5,000+ live websites** ([GHSA-q3ff-cj6v-rr5g](https://github.com/getgrav/grav/security/advisories/GHSA-q3ff-cj6v-rr5g) · [Writeup](https://m1h.hashnode.dev/how-i-got-my-first-official-high-severity-cve-that-leads-to-admin-account-hijacking)) |
+| 🔓 **[CVE-2026-92916](https://www.cve.org/CVERecord?id=CVE-2026-92916) Grav CMS** | **CVSS 8.7 (High)** · Unauthenticated profiler exposure leading to admin account takeover via session hijacking across **5,000+ live websites** ([GHSA-q3ff-cj6v-rr5g](https://github.com/getgrav/grav/security/advisories/GHSA-q3ff-cj6v-rr5g) · [Writeup](https://m1h.hashnode.dev/how-i-got-my-first-official-high-severity-cve-that-leads-to-admin-account-hijacking)) |
 | 🇩🇰 **Danish State Railways (DSB.dk)** | **Hall of Fame (10th Researcher)** · High-severity subdomain takeover (Dangling NS Delegation) mitigating DNS zone hijacking across national rail infrastructure |
 | 🚀 **NASA** | **2× Official Letters of Recognition** · Identified in-scope infrastructure vulnerabilities (`CWE-200` & `CWE-538`) |
 | 🇦🇺 **ACT Government (Australia)** | **Official Recognition** · Responsibly disclosed vulnerability in Australian Capital Territory government infrastructure |
@@ -60,7 +60,7 @@ class m1h:
 
 ## 🛠️ Open-Source Security Tooling
 
-### 🦀 [subtake](https://github.com/zuwardo-zero/subdomain-takeover) — Fast Async Subdomain Takeover Scanner
+### 🦀 [subtake](https://github.com/zuwardo-zero/subdomain-takeover) Fast Async Subdomain Takeover Scanner
 > High-concurrency CLI scanner written in **Rust** that enumerates subdomains and detects dangling DNS records pointing to unclaimed cloud resources.
 > - **Multi-Source Enumeration:** Combines Certificate Transparency logs (`crt.sh`, `CertSpotter`, `URLScan.io`), async DNS brute-forcing, permutation generation, recursive discovery, and **BBOT** integration (5 scan modes)
 > - **78 Cloud Provider Fingerprints:** Follows full CNAME chains, filters wildcard DNS false positives, and validates NXDOMAIN + HTTP body fingerprints in a single pass
@@ -69,7 +69,7 @@ class m1h:
 > ![Tokio](https://img.shields.io/badge/Async-Tokio-000000?style=flat-square&logo=rust&logoColor=white)
 > ![DNS](https://img.shields.io/badge/Recon-DNS_%26_CT_Logs-0891b2?style=flat-square)
 
-### 🤖 [Shadow MCP](https://github.com/zuwardo-zero/shadow-mcp) — AI Agent & MCP Server Security Auditor
+### 🤖 [Shadow MCP](https://github.com/zuwardo-zero/shadow-mcp) AI Agent & MCP Server Security Auditor
 > Lightweight, strictly offline command-line scanner that discovers AI coding agents and Model Context Protocol (MCP) servers on a workstation, builds a complete inventory, and assigns actionable security risk scores.
 > - **Multi-Client & Live Process Discovery:** Audits configs across Claude Desktop, Claude Code, Cursor, Windsurf, VS Code, Cline, Roo Code, Continue, and Zed alongside active OS processes in **< 1 second**
 > - **6-Domain Static Risk Engine:** Scores exposure (`0–100`, `LOW` to `CRITICAL`) for privileged Docker/sudo execution, root filesystem grants, unpinned `@latest` packages, cleartext transport, and autonomous approval bypasses, with automatic live credential redaction
@@ -78,7 +78,7 @@ class m1h:
 > ![Zero Deps](https://img.shields.io/badge/Dependencies-Zero_(Stdlib)-22c55e?style=flat-square)
 > ![AI Security](https://img.shields.io/badge/AI_Sec-MCP_Auditor-8b5cf6?style=flat-square)
 
-### 🔱 [Apk-Hunter](https://github.com/zuwardo-zero/Apk-Hunter) — Android Static Analysis & Bug Bounty Triage Scanner
+### 🔱 [Apk-Hunter](https://github.com/zuwardo-zero/Apk-Hunter) Android Static Analysis & Bug Bounty Triage Scanner
 > Automated Android APK security analysis tool combining `apktool`/`jadx` decompilation, 190+ secret-detection patterns, Firebase auto-testing, and PoC intent generation into a single self-contained interactive HTML/JSON report.
 > - **~90% Triage Noise Reduction:** Excludes 50+ third-party SDK prefixes (`okhttp3`, `BouncyCastle`, `Google`, `Facebook`, etc.) for near-zero false positives on application code
 > - **Speed & Exploitation:** Cuts per-APK static analysis time from **45+ minutes across 4+ tools to under 5 minutes**, automatically probing `*.firebaseio.com` databases and generating ready-to-run `adb shell am` PoC commands for exported components
