@@ -16,9 +16,7 @@
 
 ```python
 class m1h:
-    aliases     = ["m1h", "zuwardo-zero", "Wiz-Zero"]
     role        = "Cybersecurity Researcher & Penetration Tester"
-    location    = "EMEA (Remote)"
     education   = "B.Sc. in Computer Science"
     languages   = ["Arabic (Native)", "English (Fluent)", "French (Professional)"]
 
